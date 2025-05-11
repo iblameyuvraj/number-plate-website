@@ -419,7 +419,7 @@ export function PromptingIsAllYouNeed() {
       <footer className="fixed bottom-0 left-0 w-full p-4 flex justify-center items-center bg-black bg-opacity-30 z-10">
         <div className="flex gap-6">
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/iblameyuvrajj/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-gray-300 transition-colors"
@@ -443,7 +443,7 @@ export function PromptingIsAllYouNeed() {
             </svg>
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/yuvraj-soni-0b7a4630a?"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-gray-300 transition-colors"
